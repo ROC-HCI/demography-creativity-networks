@@ -1,4 +1,4 @@
-# demography-informed-creativity-in-networks
+# Demography Informed Creativity in Networks
 Codebase for: 
 
 R. A. Baten, R. N. Aslin, G. Ghoshal, and M. E. Hoque, Cues to gender and racial identity reduce creativity in diverse social networks, Scientific Reports, 11(1):10261, May 2021
